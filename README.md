@@ -60,7 +60,7 @@ Looking For:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
 
 </p>
 
@@ -70,7 +70,7 @@ Looking For:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+<img src="https://skillicons.dev/icons?i=html,css"/>
 
 </p>
 
@@ -80,7 +80,7 @@ Looking For:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
+<img src="https://skillicons.dev/icons?i=fastapi"/>
 
 </p>
 
@@ -144,23 +144,11 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=ARSHPREETKAU
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img
-src="https://github-profile-trophy.vercel.app/?username=ARSHPREETKAUR1234&theme=algolia&column=7&margin-w=10&margin-h=10&no-frame=true"/>
-
-</div>
-
----
-
 # 💻 Most Used Languages
 
 <div align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHPREETKAUR1234&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts"/>
 
 </div>
 
@@ -186,17 +174,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHPREETKAU
 <img src="https://skillicons.dev/icons?i=github"/>
 
 </a>
-
+<!--
 <a href="#">
 
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 
 </a>
-
-<a href="#">
-
+-->
+<a href="mailto:preetarshasr2018@gmail.comL">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
 
 </p>
@@ -205,7 +191,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARSHPREETKAU
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 *"Building AI solutions for tomorrow."*
 

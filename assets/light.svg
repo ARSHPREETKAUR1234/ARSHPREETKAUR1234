@@ -118,64 +118,24 @@
 
   <!-- ASCII Letter -->
 
-  <g filter="url(#glow)">
-
-    <text x="82"
-          y="120"
-          font-family="monospace"
-          font-size="18"
-          fill="url(#accent)">
-   █████
-    </text>
-
-    <text x="82"
-          y="145"
-          font-family="monospace"
-          font-size="18"
-          fill="url(#accent)">
-  ██   ██
-    </text>
-
-    <text x="82"
-          y="170"
-          font-family="monospace"
-          font-size="18"
-          fill="url(#accent)">
-  ███████
-    </text>
-
-    <text x="82"
-          y="195"
-          font-family="monospace"
-          font-size="18"
-          fill="url(#accent)">
-  ██   ██
-    </text>
-
-    <text x="82"
-          y="220"
-          font-family="monospace"
-          font-size="18"
-          fill="url(#accent)">
-  ██   ██
-    </text>
-
-    <text x="82"
-          y="245"
-          font-family="monospace"
-          font-size="18"
-          fill="url(#accent)">
-  ██   ██
-    </text>
+  <text
+    x="175"
+    y="250"
+    text-anchor="middle"
+    font-family="JetBrains Mono, monospace"
+    font-size="180"
+    font-weight="900"
+    fill="url(#accent)"
+    filter="url(#glow)">
+    A
 
     <animateTransform
         attributeName="transform"
         type="translate"
-        values="0 0;0 -8;0 0"
+        values="0 0;0 -6;0 0"
         dur="5s"
         repeatCount="indefinite"/>
-
-  </g>
+</text>
 
   <text
       x="80"

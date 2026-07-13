@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1180"
+     height="610"
+     viewBox="0 0 1180 610">
+
+    <defs>
+
+        <radialGradient id="particleGradient">
+            <stop offset="0%" stop-color="#22D3EE"/>
+            <stop offset="50%" stop-color="#7C3AED"/>
+            <stop offset="100%" stop-color="#10B981"/>
+        </radialGradient>
+
+    </defs>
+
+    <rect width="1180"
+          height="610"
+          fill="transparent"/>
+
+    <!-- Floating Particles -->
+
+    <g opacity="0.7">
+
+        <circle cx="80" cy="520" r="2" fill="url(#particleGradient)">
+            <animate attributeName="cy"
+                     values="520;40;520"
+                     dur="16s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="170" cy="90" r="2.5" fill="#22D3EE">
+            <animate attributeName="cy"
+                     values="90;560;90"
+                     dur="18s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="260" cy="470" r="1.8" fill="#10B981">
+            <animate attributeName="cy"
+                     values="470;60;470"
+                     dur="15s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="350" cy="210" r="2" fill="#7C3AED">
+            <animate attributeName="cx"
+                     values="350;390;350"
+                     dur="7s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="460" cy="560" r="2.2" fill="#22D3EE">
+            <animate attributeName="cy"
+                     values="560;100;560"
+                     dur="17s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="560" cy="120" r="2" fill="#10B981">
+            <animate attributeName="cy"
+                     values="120;540;120"
+                     dur="14s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="660" cy="500" r="2.4" fill="#7C3AED">
+            <animate attributeName="cy"
+                     values="500;70;500"
+                     dur="13s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="760" cy="160" r="2" fill="#22D3EE">
+            <animate attributeName="cx"
+                     values="760;800;760"
+                     dur="10s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="860" cy="440" r="2" fill="#10B981">
+            <animate attributeName="cy"
+                     values="440;80;440"
+                     dur="15s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="960" cy="230" r="2.5" fill="#7C3AED">
+            <animate attributeName="cy"
+                     values="230;570;230"
+                     dur="19s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+        <circle cx="1060" cy="510" r="2" fill="#22D3EE">
+            <animate attributeName="cy"
+                     values="510;90;510"
+                     dur="18s"
+                     repeatCount="indefinite"/>
+        </circle>
+
+    </g>
+
+</svg>

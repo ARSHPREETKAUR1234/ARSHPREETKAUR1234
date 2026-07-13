@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1180"
+     height="610"
+     viewBox="0 0 1180 610">
+
+    <defs>
+
+        <!-- Animated Noise -->
+        <filter id="noise">
+
+            <feTurbulence
+                type="fractalNoise"
+                baseFrequency="0.85"
+                numOctaves="3"
+                seed="8"
+                stitchTiles="stitch"
+                result="turbulence">
+
+                <animate
+                    attributeName="seed"
+                    values="8;12;18;24;8"
+                    dur="25s"
+                    repeatCount="indefinite"/>
+
+            </feTurbulence>
+
+            <feColorMatrix
+                type="saturate"
+                values="0"/>
+
+            <feComponentTransfer>
+
+                <feFuncA
+                    type="table"
+                    tableValues="0 0.03"/>
+
+            </feComponentTransfer>
+
+        </filter>
+
+    </defs>
+
+    <rect
+        width="1180"
+        height="610"
+        fill="white"
+        filter="url(#noise)"
+        opacity="0.18"/>
+
+</svg>
